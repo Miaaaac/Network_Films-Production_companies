@@ -24,7 +24,7 @@ The analysis focuses on three network measures:
 
 ---
 
-## 1. Erdős–Rényi Model
+## Erdős–Rényi Model
 
 The Erdős–Rényi model generates a network in which connections are created randomly. Each potential connection is formed independently according to a given probability. As a result, the model does not include an explicit mechanism for community formation or preferential attachment.
 
@@ -50,7 +50,7 @@ Overall, the ER model produces a network that is compact but lacks meaningful st
 
 ---
 
-## 2. Watts–Strogatz Model
+## Watts–Strogatz Model
 
 The Watts–Strogatz model was developed to reproduce small-world network characteristics. It combines local connectivity with random long-range connections, allowing the network to exhibit relatively high clustering while maintaining connections between distant parts of the network.
 
@@ -74,7 +74,7 @@ Therefore, although the Watts–Strogatz model captures aspects of clustering an
 
 ---
 
-## 3. Barabási–Albert Model
+## Barabási–Albert Model
 
 The Barabási–Albert model generates scale-free networks through preferential attachment. New nodes are more likely to connect to nodes that already have a high number of connections. This process results in the emergence of highly connected nodes, commonly referred to as hubs.
 
@@ -102,7 +102,7 @@ Therefore, the BA model captures network centralization and short paths relative
 
 ---
 
-## 4. Real Film Co-Production Network
+## Real Film Co-Production Network
 
 The real film co-production network exhibits a combination of structural properties that are not simultaneously reproduced by any of the three standard models.
 
@@ -122,7 +122,7 @@ The combination of high clustering, short paths, and hubs indicates that the emp
 
 ---
 
-## 5. Comparative Analysis
+## Analysis
 
 The three standard models capture different aspects of the real co-production network.
 
@@ -150,7 +150,6 @@ This combination distinguishes the real network from the three standard theoreti
 
 ---
 
-## 6. Summary
 
 | Property | Erdős–Rényi | Watts–Strogatz | Barabási–Albert | Real Network |
 |---|---|---|---|---|
@@ -169,7 +168,7 @@ The results demonstrate that each theoretical model reproduces only certain char
 
 ---
 
-## 7. Conclusion
+## Conclusion
 
 The comparison demonstrates that none of the three standard network models fully reproduces the structural characteristics of the real film co-production network.
 
